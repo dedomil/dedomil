@@ -1,4 +1,3 @@
-```js
 import profile from "@dedomil/aditya"
 
 class biography extends profile {
@@ -20,4 +19,3 @@ class skills extends profile {
   os        = ["windows", "android"];
   editors   = ["vscode", "helix", "vim"];
 }
-```
