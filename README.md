@@ -22,4 +22,4 @@ class skills extends profile {
 }
 ```
 #### currently vibing to 🎵
-![spotify playing](https://spotifyapi-1-n0898191.deta.app?theme=dark&spin=true&rainbow=true&scan=true)
+![spotify playing](https://spotifyapi-1-n0898191.deta.app?theme=dark&spin=true&scan=true&rainbow=true)
