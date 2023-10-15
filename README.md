@@ -21,3 +21,5 @@ class skills extends profile {
   editors   = ["vscode", "helix", "vim"];
 }
 ```
+#### currently vibing to 🎵
+![spotify playing](https://spotifyapi-1-n0898191.deta.app?theme=dark&spin=true&rainbow=true&scan=true)
