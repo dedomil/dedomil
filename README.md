@@ -8,11 +8,11 @@
     <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         4 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.69 %
-Rust               2 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   31.85 %
-reStructuredText   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Other              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-TypeScript         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+JavaScript         3 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   47.23 %
+Rust               2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.39 %
+Other              49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+reStructuredText   29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+TypeScript         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
