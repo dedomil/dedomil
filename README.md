@@ -1,6 +1,11 @@
 <h3>currently vibing to</h3>
-
-![currently playing](https://lastfm.dedomil.workers.dev/adbtya?dark&spin&rainbow)
+<a href="https://lastfm.dedomil.workers.dev/open/adbtya">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lastfm.dedomil.workers.dev/adbtya?dark&rainbow">
+    <source media="(prefers-color-scheme: light)" srcset="https://lastfm.dedomil.workers.dev/adbtya?rainbow">
+    <img alt="what im currently listening" src="https://lastfm.dedomil.workers.dev/adbtya?rainbow">
+  </picture>
+</a>
 <h3>weekly development stats</h3>
 <samp>
 <!--START_SECTION:waka-->
